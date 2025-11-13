@@ -1,16 +1,7 @@
 <h1 align="center">Hi, I'm Ampere</h1>
 <h3 align="center">  Krittima Kanmopakorn 2nd Year Computer Engineering </h3>
 
-### ⭐️ Skills ⋆⭒˚.⋆
-  - ✨ Python
-  - ✨ Blender
-  - ✨ Canva
-
-
-### ⭐️ Interests ⋆⭒˚.⋆
-  - ✨ Novels
-  - ✨ Books
-  - ✨ Astronomy
+<img width="3800" height="2400" alt="IMG_8299" src="https://github.com/user-attachments/assets/1d4975a0-7819-4fb7-9a29-fdbcec671077" />
 
 <h1 align="center"></h1>
 
